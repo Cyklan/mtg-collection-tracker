@@ -13,6 +13,6 @@ export default {
   },
   plugins: [daisyui],
   daisyui: {
-    themes: ["dim", "nord"],
+    themes: ["dim", "garden"],
   },
 } satisfies Config;
